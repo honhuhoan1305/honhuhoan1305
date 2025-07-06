@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Hoàn!
 
-<!--
-**honhuhoan1305/honhuhoan1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year IT student | 💻 Passionate about Web Development & Automation
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 🌐 HTML | CSS | JavaScript
+- ⚙️ Java | Spring Boot | MySQL
+- ☁️ Google Apps Script | Google Sheets Automation
+- 🎨 WordPress | Haravan | Elementor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- 🎲 [Bầu Cua Tôm Cá Game](https://honhuhoan.github.io/bau-cua-game/)
+- 📥 [Gmail → Google Sheets Automation](https://github.com/honhuhoan1305/Gmail-To-Sheets)
+- 🧾 [Google Sheet Bán Hàng](https://github.com/honhuhoan1305/sheet-sales-system)
+
+## 📈 GitHub Stats
+![Hoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=honhuhoan1305&show_icons=true&theme=radical)
+
+## 🔗 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:honhuhoan1305@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/honhuhoan1305)
